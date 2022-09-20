@@ -1,11 +1,46 @@
-<h1 align="center">Hi 👋, I'm Agustín Gauna</h1>
-<h3 align="center">A frontend developer who loves React and TypeScript</h3>
+## Hello World 👋 I'm Agustín Gauna
+I'm a Frontend developer who loves [React](https://reactjs.org). I'm a [Cypress](https://cypress.io/ambassadors/) ambassador, [Twitch](https://twitch.gonzalopozzo.com) partner and creator of [Pency](https://pency.app).
 
-<p align="left">
-<a href="https://linkedin.com/in/agustingauna97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustingauna97" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://twitter.gonzalopozzo.com">
+<img align="left" alt="Gonzalo Pozzo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://linkedin.gonzalopozzo.com">
+<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://youtube.gonzalopozzo.com">
+<img align="left" alt="Gonzalo Pozzo YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/goncy.js/">
+<img align="left" alt="Gonzalo Pozzo Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://twitch.gonzalopozzo.com">
+<img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustingauna&show_icons=true&locale=en" alt="agustingauna" /></p>
+<br />
+
+<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+
+<br />
+
+## What i'm up to
+
+- 🔭 I’m currently working @ [Vercel](https://vercel.com).
+- 🌱 I’m currently working with [React](https://reactjs.org).
+- 👯 Owner of a Developer Community.
+- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
+
+<br />
+
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+
+---
+
+![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=goncy&show_icons=true&hide_border=true)
