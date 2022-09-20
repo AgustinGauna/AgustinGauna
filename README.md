@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm Agustín Gauna
-# I'm a Frontend developer who loves React and TypeScript. 
+### I'm a Frontend developer who loves React and TypeScript. 
 
 <br/>
 
