@@ -11,8 +11,8 @@ I'm a Frontend developer who loves React and TypeScript.
 
 ## About Me
 
-- 🔭 I’m currently open to work.
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 🔧 I’m currently open to work.
+- 🧪 I’m currently working with [React](https://reactjs.org).
 
 <br />
 
