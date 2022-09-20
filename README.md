@@ -1,23 +1,12 @@
 ## Hello World 👋 I'm Agustín Gauna
-I'm a Frontend developer who loves [React](https://reactjs.org). I'm a [Cypress](https://cypress.io/ambassadors/) ambassador, [Twitch](https://twitch.gonzalopozzo.com) partner and creator of [Pency](https://pency.app).
+I'm a Frontend developer who loves React and TypeScript. 
 
 <br/>
 
-<a href="https://twitter.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
 <a href="https://linkedin.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Agustín Gauna LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://youtube.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.instagram.com/goncy.js/">
-<img align="left" alt="Gonzalo Pozzo Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://twitch.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
-</a>
+
 
 <br />
 
