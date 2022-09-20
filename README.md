@@ -1,9 +1,9 @@
 ## Hello World 👋 I'm Agustín Gauna
-I'm a Frontend developer who loves React and TypeScript. 
+# I'm a Frontend developer who loves React and TypeScript. 
 
 <br/>
 
-<a href="https://linkedin.gonzalopozzo.com">
+<a href="https://linkedin.com/in/agustingauna1997">
 <img align="left" alt="Agustín Gauna LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
