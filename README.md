@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm Agustín Gauna
-I'm a Frontend developer who loves React and TypeScript. 
+I'm a Full stack web developer who loves React and TypeScript. 
 
 <br/>
 
@@ -13,6 +13,7 @@ I'm a Frontend developer who loves React and TypeScript.
 
 - 🔧 I’m currently open to work.
 - 🧪 I work mostly with React, TypeScript and Tailwind CSS.
+- 💻 I use Node Js, Express and MySQL for backend and databases
 
 <br />
 
