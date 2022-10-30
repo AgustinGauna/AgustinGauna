@@ -3,7 +3,7 @@ I'm a Full stack web developer who loves React and TypeScript.
 
 <br/>
 
-<a href="https://linkedin.gonzalopozzo.com">
+<a href="https://www.linkedin.com/in/agustingauna97/">
 <img align="left" alt="Agustín Gauna LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
