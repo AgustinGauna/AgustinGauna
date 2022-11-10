@@ -37,4 +37,4 @@ I'm a Full stack web developer who loves React and TypeScript.
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustingauna&show_icons=true&locale=en" alt="agustingauna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustingauna&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoJavierConchilloWagner's GitHub stats" /></a>" alt="agustingauna" /></p>
