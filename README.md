@@ -1,5 +1,5 @@
-## Hello World 👋 I'm Agustín Gauna
-I'm a Full stack web developer who loves React and TypeScript. 
+## Hello 👋 I'm Agustín Gauna
+A Front End web developer who works with React and TypeScript. 
 
 <br/>
 
@@ -12,8 +12,8 @@ I'm a Full stack web developer who loves React and TypeScript.
 ## About Me
 - 🌍 I'm based in Argentina
 - 🖥️ Check my portfolio <a href="https://www.linkedin.com/in/agustingauna97/">Here</a>
-- 🧪 I work mostly with React, TypeScript and Tailwind CSS.
-- 💻 I use Node Js, Express and MySQL for backend and databases
+- 🧪 I work mostly with React, Next.js, TypeScript and Tailwind CSS.
+- 💻 I know a bit of Node.js and MySQL and Mongodb
 
 <br />
 
