@@ -13,7 +13,7 @@ A Front End web developer who works with React and TypeScript.
 - 🌍 I'm based in Argentina
 - 🖥️ Check my portfolio <a href="https://www.linkedin.com/in/agustingauna97/">Here</a>
 - 🧪 I work mostly with React, Next.js, TypeScript and Tailwind CSS.
-- 💻 I know a bit of Node.js and MySQL and Mongodb
+- 💻 I know a bit of Node.js, MySQL and Mongodb
 
 <br />
 
